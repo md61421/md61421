@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Md Sahil
 - 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on GSoC
 - 📫 You can email me at md61421@gmail.com
