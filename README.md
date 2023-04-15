@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Md Sahil
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning Frontend Web development
 - 📫 You can email me at md61421@gmail.com
